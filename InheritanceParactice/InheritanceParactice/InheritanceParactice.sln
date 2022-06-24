@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceParactice", "InheritanceParactice\InheritanceParactice.csproj", "{E7DE786B-7640-4FF1-89C6-DA3029AB09AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{290F97C2-5E87-47C7-830D-F83DDA5B4A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DE786B-7640-4FF1-89C6-DA3029AB09AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DE786B-7640-4FF1-89C6-DA3029AB09AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DE786B-7640-4FF1-89C6-DA3029AB09AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DE786B-7640-4FF1-89C6-DA3029AB09AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290F97C2-5E87-47C7-830D-F83DDA5B4A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290F97C2-5E87-47C7-830D-F83DDA5B4A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290F97C2-5E87-47C7-830D-F83DDA5B4A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290F97C2-5E87-47C7-830D-F83DDA5B4A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D02363-C052-4CEC-BE58-6A03DEE45020}
+	EndGlobalSection
+EndGlobal

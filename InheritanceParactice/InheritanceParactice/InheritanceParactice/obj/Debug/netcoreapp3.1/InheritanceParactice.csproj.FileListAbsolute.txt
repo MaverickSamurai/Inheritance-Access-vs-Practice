@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\bin\Debug\netcoreapp3.1\InheritanceParactice.exe
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\bin\Debug\netcoreapp3.1\InheritanceParactice.deps.json
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\bin\Debug\netcoreapp3.1\InheritanceParactice.runtimeconfig.json
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\bin\Debug\netcoreapp3.1\InheritanceParactice.runtimeconfig.dev.json
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\bin\Debug\netcoreapp3.1\InheritanceParactice.dll
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\bin\Debug\netcoreapp3.1\InheritanceParactice.pdb
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.AssemblyInfo.cs
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.dll
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.pdb
+C:\Users\User\Desktop\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\InheritanceParactice\InheritanceParactice\InheritanceParactice\obj\Debug\netcoreapp3.1\InheritanceParactice.genruntimeconfig.cache
